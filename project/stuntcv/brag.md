@@ -43,3 +43,5 @@ Computer vision, pose estimation, YOLOv8-pose (Ultralytics), ByteTrack multi-obj
 
 ## 7. Artifacts & screenshots
 Repos are listed above. Demo frames are kept private because they show other athletes.
+
+![StuntCV portfolio card](assets/portfolio-thumbnail.png)

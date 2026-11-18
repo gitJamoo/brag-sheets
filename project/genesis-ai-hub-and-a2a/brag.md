@@ -3,7 +3,7 @@ type: project
 title: GENESIS AI Hub, Cyrano de Bergerac A2A systems, and agentic-AI teaching artifacts
 dates: 2025-08 → 2026-06
 org: OSU DRI-GENESIS / OSU-GENESIS GitHub org
-role_sheet: ../../role/osu-dri-genesis-ai-advisor/brag.md
+role_sheet: ../../experience/osu-ai-advisor/brag.md
 related: ../openbeavs/brag.md (same product, later phase — see audit #7)
 ---
 
@@ -33,3 +33,6 @@ related: ../openbeavs/brag.md (same product, later phase — see audit #7)
 
 ## Keywords
 A2A, Google ADK, SequentialAgent, JSON-RPC, agent cards, FastAPI, orchestration, tone classification, prompt design, GitHub Actions, unittest, Claude Code, qwen-code, Typst, Entra ID SSO.
+
+## Artifacts
+![GENESIS AI Hub portfolio card](assets/portfolio-thumbnail.png)

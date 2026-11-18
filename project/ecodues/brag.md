@@ -74,3 +74,7 @@ Next.js 16, React, TypeScript, Tailwind CSS v4, Supabase (Postgres, Auth, RLS-st
 | ![landing](assets/ecodues-landing.png) | ![methodology](assets/ecodues-methodology.png) |
 | ![impact](assets/ecodues-impact.png) | ![how donations work](assets/ecodues-how-donations-work.png) |
 | ![launch film poster](assets/launch-film-poster.jpg) | ![launch still](assets/launch-film-still-150.png) |
+
+**Launch film (video):** [assets/launch-film.mp4](assets/launch-film.mp4), about 31 s, made in Remotion. Also hosted at https://www.ecodues.org/launch-film.mp4
+
+Portfolio card image: ![EcoDues card](assets/portfolio-thumbnail.png) · launch film frame: ![launch film scene 1](assets/launch-film-s1.png)

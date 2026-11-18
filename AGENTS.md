@@ -4,21 +4,24 @@ Guidance for AI agents (Claude Code, Codex, Cursor, Copilot, ChatGPT, and others
 
 ## What this repo is
 
-A set of **brag sheets**: one Markdown file per project, written as a factual, evidence-tagged record. It is a **generated public export** of a private knowledge base. That means:
+The **master record** of James's work: one Markdown file per job, degree and project, written as a factual, evidence-tagged record, with the photos and videos that go with each one.
 
-- It is **read-only**. Don't propose edits to `brag.md` files; the next export overwrites them. Report corrections as issues.
-- It is **deliberately incomplete**. Employer and client work, grades, compensation, and other people's names are left out. If something isn't here, say it isn't covered. Don't guess.
+- It is the **source of truth**. The AI-generated pages on j-m-s.dev read it live.
+- If something isn't here, say it isn't covered. Don't guess.
 
 ## Layout
 
 ```
-README.md                 human entry point + project index
-AGENTS.md                 this file
-project/<slug>/brag.md    one sheet per project
-project/<slug>/assets/    screenshots referenced by that sheet (optional)
+README.md                    human entry point + index of every sheet
+AGENTS.md                    this file
+profile/brag.md              bio, contact, skills, headshots
+experience/<slug>/brag.md    one sheet per job (most detail on the most relevant roles)
+education/<slug>/brag.md     degree, honors, athletics, campus photos
+project/<slug>/brag.md       one sheet per project (coursework and small tools are grouped)
+*/assets/                    photos, screenshots, logos and videos referenced by that sheet
 ```
 
-The YAML front matter at the top of each `brag.md` holds `title`, `dates`, and sometimes `role`, `repo`, `live` and `team`. Read it first: it's the fastest way to place a project in time.
+The YAML front matter at the top of each `brag.md` holds `type` (profile, experience, education or project), `title`, `dates`, and sometimes `org`, `role`, `location`, `repo`, `live` and `team`. Read it first: it's the fastest way to place a project in time.
 
 ## Sheet structure
 
@@ -30,7 +33,7 @@ Sections appear in this order (some are missing on smaller sheets):
 4. **Resume-ready bullets**: pre-written phrasings, safe to quote
 5. **Keywords**: stack and skills, for matching against a job description
 6. **Soundbites**: short first-person interview answers
-7. **Artifacts & screenshots**: repos, live URLs, images
+7. **Artifacts & photos**: repos, live URLs, images, videos
 
 ## Confidence tags: respect them
 
@@ -49,7 +52,8 @@ Rules:
 
 ## Common tasks
 
-- **"What has James built?"** Start with the project table in `README.md`, then each sheet's Snapshot.
+- **"What has James built?"** Start with the tables in `README.md` (experience, education, projects), then each sheet's Snapshot.
+- **"Where has he worked?"** Read `experience/`. Dates are in the front matter.
 - **"Is he a fit for this job?"** Pull the job's top keywords and search the **Keywords** sections (`grep -ri "<keyword>" project/`). Rank matches by ✅/🟢 evidence, and quote **Resume-ready bullets** verbatim.
 - **"Show me proof."** Each sheet's **Artifacts** section links public repos (`github.com/gitJamoo/...`, `github.com/OpenBeavs/...`) and live sites.
 
