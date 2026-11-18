@@ -5,7 +5,7 @@ dates: 2025-10-03 (first commit) → 2026-06 (capstone wrap; repo last push 2026
 team: 4-student senior-capstone team (James + 3 teammates) with a faculty/client sponsor
 repos: github.com/OpenBeavs/{OpenBeavs, OSU-RAG-Pipeline, example_a2a_agents, Microsoft-SSO-Test-App, OpenBeavsV2…}
 evolved_from: GENESIS AI Hub (see ../genesis-ai-hub-and-a2a/brag.md)
-role_sheets: [../../role/osu-bs-computer-science/brag.md, ../../role/osu-dri-genesis-ai-advisor/brag.md]
+role_sheets: [../../education/oregon-state/brag.md, ../../experience/osu-ai-advisor/brag.md]
 ---
 
 # OpenBeavs — AI Agent Platform for OSU
@@ -67,3 +67,5 @@ Agent2Agent (A2A), JSON-RPC 2.0, agent registry, Model Context Protocol (adjacen
 ![OpenBeavs card](assets/portfolio-thumbnail.png)
 
 ![capstone relational mapping visualization](assets/capstone-relational-mapping.png)
+
+Interactive version: [assets/capstone-relational-mapping.html](assets/capstone-relational-mapping.html)
