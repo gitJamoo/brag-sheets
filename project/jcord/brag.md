@@ -21,12 +21,12 @@ A **real-time chat, voice and video app**, built solo as a **take-home challenge
 Stack: **Next.js 16, TypeScript, Supabase (Realtime, Auth, PostgreSQL), LiveKit (WebRTC), Tailwind CSS v4, shadcn/ui, Vercel.**
 
 ## 2. Headline numbers
-| Number | Tag |
-|---|---|
-| Built in **~1 day** (repo created 2026-03-20; commits dated 2026-03-19) | ✅ git / GitHub API |
-| ≈**3,100 lines** of TS/TSX | ✅ `wc -l` |
-| **4/4** core requirements plus **6** bonus features | ✅ README |
-| Live demo and demo video | ✅ |
+| Number |
+| --- |
+| Built in **~1 day** (repo created 2026-03-20; commits dated 2026-03-19) — git / GitHub API |
+| ≈**3,100 lines** of TS/TSX — `wc -l` |
+| **4/4** core requirements plus **6** bonus features — README |
+| Live demo and demo video |
 
 ## 3. Accomplishments
 1. **Real-time messaging.** Supabase Realtime (Postgres logical replication over WebSockets) per room, with optimistic UI.

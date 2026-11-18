@@ -4,7 +4,7 @@ Guidance for AI agents (Claude Code, Codex, Cursor, Copilot, ChatGPT, and others
 
 ## What this repo is
 
-The **master record** of James's work: one Markdown file per job, degree and project, written as a factual, evidence-tagged record, with the photos and videos that go with each one.
+The **master record** of James's work: one Markdown file per job, degree and project, written as a factual record, with the photos and videos that go with each one.
 
 - It is the **source of truth**. The AI-generated pages on j-m-s.dev read it live.
 - If something isn't here, say it isn't covered. Don't guess.
@@ -28,23 +28,14 @@ The YAML front matter at the top of each `brag.md` holds `type` (profile, experi
 Sections appear in this order (some are missing on smaller sheets):
 
 1. **Snapshot**: what it is, in one paragraph, plus the stack
-2. **Headline numbers**: a table of metrics, each with a confidence tag and its source
+2. **Headline numbers**: a table of metrics and where each comes from
 3. **Accomplishments**: detailed, context → action → result
 4. **Resume-ready bullets**: pre-written phrasings, safe to quote
 5. **Keywords**: stack and skills, for matching against a job description
 6. **Soundbites**: short first-person interview answers
 7. **Artifacts & photos**: repos, live URLs, images, videos
 
-## Confidence tags: respect them
-
-| Tag | Meaning | How to use it |
-|---|---|---|
-| ✅ | Verified against an artifact (git log, GitHub API, live site, repo file) | State it as fact |
-| 🟢 | Documented consistently, but not independently verified | State it normally |
-| 🟡 | Estimate, projection, or recollection | Always qualify it ("about", "estimated", "per his notes") |
-| ❓ | Unknown | Don't fill it in |
-
-Rules:
+## Rules
 - **Never invent or round up a number.** Use the figure and wording in the sheet. When a sheet gives a recomputed number next to an older résumé figure, the recomputed one is correct.
 - **Cite the file** you got a claim from, for example `project/openbeavs/brag.md`.
 - **Don't name teammates, sponsors or instructors** even if you find them elsewhere. This repo intentionally refers to them by role.
@@ -54,7 +45,7 @@ Rules:
 
 - **"What has James built?"** Start with the tables in `README.md` (experience, education, projects), then each sheet's Snapshot.
 - **"Where has he worked?"** Read `experience/`. Dates are in the front matter.
-- **"Is he a fit for this job?"** Pull the job's top keywords and search the **Keywords** sections (`grep -ri "<keyword>" project/`). Rank matches by ✅/🟢 evidence, and quote **Resume-ready bullets** verbatim.
+- **"Is he a fit for this job?"** Pull the job's top keywords and search the **Keywords** sections (`grep -ri "<keyword>" project/`). Rank matches by evidence, and quote **Resume-ready bullets** verbatim.
 - **"Show me proof."** Each sheet's **Artifacts** section links public repos (`github.com/gitJamoo/...`, `github.com/OpenBeavs/...`) and live sites.
 
 ## Contact

@@ -15,12 +15,12 @@ Summer 2024 on NJ Transit's engineering and innovations team. James hardened a *
 Stack: **Jest, Gherkin/Cucumber, Azure Pipelines, Python, pandas, .NET.**
 
 ## 2. Headline numbers
-| Number | Tag | Source |
-|---|---|---|
-| **200+ tests** across **18 suites** | 🟢 | résumé |
-| **85% code coverage** on the incident-reporting system | 🟢 | résumé |
-| **127 .NET projects** (2010–2023) screened and documented | 🟢 | résumé |
-| Security vulnerabilities in employee-facing endpoints found and fixed | 🟢 | résumé (count not recorded ❓) |
+| Number | Source |
+| --- | --- |
+| **200+ tests** across **18 suites** | résumé |
+| **85% code coverage** on the incident-reporting system | résumé |
+| **127 .NET projects** (2010–2023) screened and documented | résumé |
+| Security vulnerabilities in employee-facing endpoints found and fixed | résumé |
 
 ## 3. Accomplishments
 1. **Test coverage on a critical system.** Wrote 200+ Jest and Gherkin tests across 18 suites for the statewide digital incident-reporting system, bringing it to **85% coverage**.
@@ -44,7 +44,7 @@ Test automation, Jest, Gherkin, Cucumber, BDD, code coverage, CI/CD, Azure Pipel
 
 ## 7. Photos
 | | |
-|---|---|
+| --- | --- |
 | ![In a hard hat in the NJ Transit console room](assets/njt-hardhat-console-room.jpg) | ![2024 intern cohort, official NJ Transit photo](assets/njt-intern-group-official.jpg) |
 | ![With the intern cohort](assets/njt-intern-group.jpg) | |
 

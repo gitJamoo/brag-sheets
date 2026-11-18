@@ -12,13 +12,12 @@ role: Solo
 A portfolio that is itself a demo: the **Wormhole** — a catch-all route (`/wormhole/*`) where an LLM *generates every page as you browse* (no two visits alike), fed James's bio/résumé as context, with a **config UI** to pick provider/model (Gemini, OpenAI, Anthropic via Vercel AI SDK), language, temperature, and custom instructions; plus a static professional `/home` (experience, projects, education), **Playground → LLM Sandbox**: an interactive **3D learning lab (React Three Fiber / three.js)** visualizing **tokenization, embedding clustering, cosine similarity, and word-vector analogies (king − man + woman ≈ queen)** where an LLM assigns live 3D coordinates to arbitrary words; Cal.com **booking** page; **blog** (MDX); contact modal storing submissions in **Vercel Blob**; `llms.txt`/`agents.txt` for AI-crawler discoverability.
 
 ## 2. Headline numbers
-| Number | Tag |
-|---|---|
-| **92 commits**, Aug 11 2025 → Jul 12 2026 | ✅ |
-| ≈**5,400 lines** of TS/TSX | ✅ |
-| Next.js 15.4 (Turbopack) · React 19 · Tailwind 4 · three 0.185 / R3F 9 / drei 10 · Vercel AI SDK v4 · Zod · next-mdx-remote | ✅ package.json |
-| Providers supported in Wormhole: Anthropic, Google, OpenAI (user key or env fallback) | ✅ |
-| Traffic/visitors | ❓ none recorded |
+| Number |
+| --- |
+| **92 commits**, Aug 11 2025 → Jul 12 2026 |
+| ≈**5,400 lines** of TS/TSX |
+| Next.js 15.4 (Turbopack) · React 19 · Tailwind 4 · three 0.185 / R3F 9 / drei 10 · Vercel AI SDK v4 · Zod · next-mdx-remote — package.json |
+| Providers supported in Wormhole: Anthropic, Google, OpenAI (user key or env fallback) |
 
 ## 3. Accomplishments
 - **LLM-generated site:** server route builds prompt from `info.md` + `system-instructions.txt`, returns raw HTML injected client-side; per-visitor provider/model/temperature config in `localStorage`; July 2026: refreshed model lineup with current small/cheap models, résumé fed to generator.
@@ -39,6 +38,6 @@ Next.js App Router, React 19, TypeScript, Tailwind 4, Vercel AI SDK, multi-provi
 
 ## 7. Screenshots (captured 2026-10-20)
 | | |
-|---|---|
+| --- | --- |
 | ![home](assets/portfolio-home.png) | ![playground](assets/portfolio-playground.png) |
 | ![blog](assets/portfolio-blog.png) | ![card](assets/portfolio-thumbnail.png) |

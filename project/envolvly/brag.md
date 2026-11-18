@@ -15,11 +15,10 @@ Envolvly is a **B2B SaaS marketplace for creators** ("a platform for creators", 
 Stack: **React, TypeScript, Node.js, Express, MongoDB, Auth0, Stripe Connect, AWS, Docker, GitHub Actions, N8N** (a private `Envolvly-Micro-N8N` automation repo).
 
 ## 2. Headline numbers
-| Number | Tag | Source |
-|---|---|---|
-| **1,000+ users** | 🟢 | résumé (no analytics export checked) |
-| **Won** OSU's school-wide startup pitch competition | 🟢 | résumé, plus a photo |
-| Uptime, latency, prize amount | ❓ | not recorded. The old portfolio's "99.9% uptime", "<200 ms" and "$10,000 prize" have no source, so don't use them |
+| Number | Source |
+| --- | --- |
+| **1,000+ users** | résumé (no analytics export checked) |
+| **Won** OSU's school-wide startup pitch competition | résumé, plus a photo |
 
 ## 3. Accomplishments
 1. **Full-stack build.** Led development end to end on the MERN app, from concept to a platform with active users. He was the primary engineer throughout.

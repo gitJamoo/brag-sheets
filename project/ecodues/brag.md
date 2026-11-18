@@ -15,19 +15,19 @@ EcoDues connects to a user's AI providers (**OpenRouter, OpenAI, Anthropic** adm
 Built **solo, end-to-end, in about 10 days**, with production database migrations, CI, SEO, legal pages, share cards, and a Remotion-produced launch film.
 
 ## 2. Headline numbers
-| Number | Tag | Evidence |
-|---|---|---|
-| **68 commits** (67 by James + 1 Vercel bot) in **10 days** (2026-07-03 → 07-13) | ✅ | `git log` |
-| **≈11,250 lines** of TS/TSX in `src/` across **108 files** | ✅ | `wc -l` on tracked src |
-| **14 app routes** (dashboard, donations, leaderboard, providers, settings, onboarding, login, share, + 6 marketing/legal pages incl. methodology, impact, how-donations-work, privacy, terms) | ✅ | repo tree |
-| **8 API routes** (3 cron: daily sync, monthly cycle, health-check; export CSV; share-card; Every.org webhook; unsubscribe; dev) | ✅ | repo tree |
-| **16 SQL migrations** applied to production Supabase | ✅ | `supabase/migrations` (résumé said 14 → say "15+") |
-| **38 unit tests** across 4 files (emissions engine, models, cycle math, unsubscribe tokens) | ✅ | grep of `it(`/`test(` — résumé said 30 |
-| **CI**: TypeScript compile, ESLint, Vitest, production build on every push | ✅ | GitHub Actions workflow (commit 2026-07-05) |
-| **MIT license, CONTRIBUTING.md, README** published | ✅ | repo |
-| **~31–32 s** launch film (Remotion, 4 iterations v1→v4; Descript + CapCut for audio/captions; Veo drone clip) | ✅ | `marketing-video/out/`, README says 32 s |
-| Users | 🟡 **3 registered as of 2026-07-07**, 100% onboarded, 0 provider-connection errors | Topic note → **don't imply traction**; lead with "shipped & live" |
-| Stars/forks | 0 / 0 | ✅ `gh repo view` |
+| Number | Evidence |
+| --- | --- |
+| **68 commits** (67 by James + 1 Vercel bot) in **10 days** (2026-07-03 → 07-13) | `git log` |
+| **≈11,250 lines** of TS/TSX in `src/` across **108 files** | `wc -l` on tracked src |
+| **14 app routes** (dashboard, donations, leaderboard, providers, settings, onboarding, login, share, + 6 marketing/legal pages incl. methodology, impact, how-donations-work, privacy, terms) | repo tree |
+| **8 API routes** (3 cron: daily sync, monthly cycle, health-check; export CSV; share-card; Every.org webhook; unsubscribe; dev) | repo tree |
+| **16 SQL migrations** applied to production Supabase | `supabase/migrations` (résumé said 14 → say "15+") |
+| **38 unit tests** across 4 files (emissions engine, models, cycle math, unsubscribe tokens) | grep of `it(`/`test(` — résumé said 30 |
+| **CI**: TypeScript compile, ESLint, Vitest, production build on every push | GitHub Actions workflow (commit 2026-07-05) |
+| **MIT license, CONTRIBUTING.md, README** published | repo |
+| **~31–32 s** launch film (Remotion, 4 iterations v1→v4; Descript + CapCut for audio/captions; Veo drone clip) | `marketing-video/out/`, README says 32 s |
+| **10 registered users, 5 onboarded, 1 donation payment** (Nov 2026; up from 3 in July) | production database |
+| Stars/forks — 0 / 0 | `gh repo view` |
 
 ## 3. Accomplishments (exhaustive)
 **Product & domain**
@@ -39,7 +39,7 @@ Built **solo, end-to-end, in about 10 days**, with production database migration
 - **Public impact page** with live donation totals; **llms.txt / agents.txt / JSON-LD** for AI-search discoverability.
 
 **Security & reliability**
-- Provider API keys **encrypted at rest** (`ENCRYPTION_KEY`, 32-byte); signed unsubscribe tokens; `CRON_SECRET` bearer on cron routes; **Every.org webhook hardened**; 72-char password cap; per-action **rate limiting (10–30/min)**; `handle_new_user()` trigger locked down (EXECUTE revoked from public/anon/authenticated); **Zod validation on client + server**; generic user-facing errors + structured logger; GitHub & **Google OAuth**; connector failures logged instead of silently flagging connections; account deletion + email unsubscribe + notification prefs; privacy policy & ToS.
+- Provider API keys **encrypted at rest** (`ENCRYPTION_KEY`, 32-byte); signed unsubscribe tokens; `CRON_SECRET` bearer on cron routes; **Every.org webhook hardened**; 72-char password cap; per-action **rate limiting (10–30/min)**; `handle_new_user` trigger locked down (EXECUTE revoked from public/anon/authenticated); **Zod validation on client + server**; generic user-facing errors + structured logger; GitHub & **Google OAuth**; connector failures logged instead of silently flagging connections; account deletion + email unsubscribe + notification prefs; privacy policy & ToS.
 
 **Front end / UX**
 - Next.js 16 App Router, Tailwind v4, Supabase auth/Postgres, Resend transactional email, Vercel hosting + crons; dark mode; mobile pass (icons-only top nav, stacked tables/cards, **eliminated mobile horizontal scroll**); branded 404/error pages; dynamic **OG images** (`opengraph-image.tsx`), `robots.ts`/`sitemap.ts`, canonical domain cleanup.
@@ -70,7 +70,7 @@ Next.js 16, React, TypeScript, Tailwind CSS v4, Supabase (Postgres, Auth, RLS-st
 - Repo local: `Documents/Github-Projects/countervail/` (CLAUDE.md has architecture notes; `docs/superpowers/` design docs)
 
 | | |
-|---|---|
+| --- | --- |
 | ![landing](assets/ecodues-landing.png) | ![methodology](assets/ecodues-methodology.png) |
 | ![impact](assets/ecodues-impact.png) | ![how donations work](assets/ecodues-how-donations-work.png) |
 | ![launch film poster](assets/launch-film-poster.jpg) | ![launch still](assets/launch-film-still-150.png) |

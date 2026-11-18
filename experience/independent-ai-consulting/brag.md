@@ -15,13 +15,13 @@ A freelance engagement between graduating and joining Magical. James designed, b
 Stack: **N8N** on a self-managed Linux server (**Cloudflare Tunnel** ingress, SSH port-forwarded DB access), **Claude Sonnet via OpenRouter with Zero Data Retention**, **SQL Server / T-SQL**, **Microsoft Graph API** (Outlook threading).
 
 ## 2. Headline numbers
-| Number | Tag | Source |
-|---|---|---|
-| **5-layer** pipeline with a single canonical pricing unit (MBF) enforced across every layer | 🟢 | résumé |
-| Corrected price-floor errors of **up to 3×** against wholesale market benchmarks | 🟢 | résumé |
-| Security audit: **7 findings remediated** | 🟢 | résumé |
-| **9-fixture** regression suite (multi-item, unknown customer, unparseable input, injection, below-cost) | 🟢 | résumé |
-| Time on the engagement: ~2–3 months (May → Jul 2026) | 🟢 | |
+| Number | Source |
+| --- | --- |
+| **5-layer** pipeline with a single canonical pricing unit (MBF) enforced across every layer | résumé |
+| Corrected price-floor errors of **up to 3×** against wholesale market benchmarks | résumé |
+| Security audit: **7 findings remediated** | résumé |
+| **9-fixture** regression suite (multi-item, unknown customer, unparseable input, injection, below-cost) | résumé |
+| Time on the engagement: ~2–3 months (May → Jul 2026) | |
 
 ## 3. Accomplishments
 1. **End-to-end quoting agent.** Inbound RFQ email → parse line items → SQL agent queries live ERP pricing and stock → draft quote → Outlook-ready reply in the original thread (Microsoft Graph message threading). Traders review and send; nothing goes out unreviewed.

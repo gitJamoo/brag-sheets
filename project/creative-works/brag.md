@@ -10,7 +10,7 @@ dates: 2024 → present
 James makes short cinematic videos that recap chapters of his life, plus launch films and sizzle reels for his projects.
 
 | Video | Link | Thumbnail |
-|---|---|---|
+| --- | --- | --- |
 | **EcoDues Launch Film** (about 31 s, Remotion) | [file](../ecodues/assets/launch-film.mp4) · https://www.ecodues.org/launch-film.mp4 | ![EcoDues launch film](../ecodues/assets/launch-film-poster.jpg) |
 | **OpenBeavs Sizzle Reel** | https://youtu.be/_Dzs6amoz1c | ![OpenBeavs sizzle reel](assets/openbeavs-sizzle-reel.jpg) |
 | **jcord demo** | https://youtu.be/jhuBei7J2RM | ![jcord demo](../jcord/assets/demo-video-thumbnail.jpg) |

@@ -1,6 +1,6 @@
 # James M. Smith: Brag Sheets
 
-The master record of my work: every job, my degree, every project, and the photos and videos that go with them. Each sheet says what the work was, gives the numbers behind it, and lists the stack. Every figure is tagged with how well it's supported.
+The master record of my work: every job, my degree, every project, and the photos and videos that go with them. Each sheet says what the work was, gives the numbers behind it, and lists the stack.
 
 - **Portfolio:** [j-m-s.dev](https://j-m-s.dev), whose AI-generated pages are built from this repo
 - **GitHub:** [@gitJamoo](https://github.com/gitJamoo)
@@ -12,17 +12,17 @@ The master record of my work: every job, my degree, every project, and the photo
 ## Profile
 
 | Sheet | Folder |
-|---|---|
+| --- | --- |
 | [James M. Smith: bio, contact, skills, headshots](profile/brag.md) | `profile/` |
 
 ## Experience
 
 | Role | Dates | Folder |
-|---|---|---|
+| --- | --- | --- |
 | [AI/Product Engineer, Magical Inc](experience/magical/brag.md) | Jul 2026 – present | `experience/magical/` |
 | [Founder / AI Automation Consultant: production AI quoting agent](experience/independent-ai-consulting/brag.md) | May – Jul 2026 | `experience/independent-ai-consulting/` |
 | [Machine Learning Intern, BVR ST CO](experience/bvr-st-co/brag.md) | Oct 2025 – Jun 2026 | `experience/bvr-st-co/` |
-| [AI Advisor, Oregon State University (DRI-GENESIS)](experience/osu-ai-advisor/brag.md) | Aug 2025 – Jun 2026 | `experience/osu-ai-advisor/` |
+| [AI Advisor, Oregon State University (College of Business)](experience/osu-ai-advisor/brag.md) | Aug 2025 – Jun 2026 | `experience/osu-ai-advisor/` |
 | [Machine Learning Intern, The Estée Lauder Companies](experience/estee-lauder/brag.md) | Jun – Aug 2025 | `experience/estee-lauder/` |
 | [Data Analyst, Carrick FC](experience/carrick-fc/brag.md) | 2025 – 2026 | `experience/carrick-fc/` |
 | [Programmer & Technical Analyst Intern, NJ Transit](experience/nj-transit/brag.md) | Jun – Aug 2024 | `experience/nj-transit/` |
@@ -32,17 +32,17 @@ The master record of my work: every job, my degree, every project, and the photo
 ## Education
 
 | Sheet | Folder |
-|---|---|
+| --- | --- |
 | [B.S. Computer Science, Oregon State University (Cum Laude, Cybersecurity minor, D1 cheer)](education/oregon-state/brag.md) | `education/oregon-state/` |
 
 ## Projects
 
 | Project | Folder |
-|---|---|
+| --- | --- |
 | [OpenBeavs: AI agent platform for Oregon State University (CS Capstone)](project/openbeavs/brag.md) | `project/openbeavs/` |
 | [EcoDues: offset the climate damage of your AI usage (live SaaS, open source)](project/ecodues/brag.md) | `project/ecodues/` |
 | [Envolvly: creator marketplace SaaS (co-founder)](project/envolvly/brag.md) | `project/envolvly/` |
-| [GENESIS AI Hub, Cyrano de Bergerac A2A systems, and agentic-AI teaching artifacts](project/genesis-ai-hub-and-a2a/brag.md) | `project/genesis-ai-hub-and-a2a/` |
+| [OSU AI Hub, Cyrano de Bergerac A2A systems, and agentic-AI teaching artifacts](project/osu-ai-hub-and-a2a/brag.md) | `project/osu-ai-hub-and-a2a/` |
 | [COORDINATOR: agentic AI for real-time sports strategy (BVR ST CO)](project/coordinator/brag.md) | `project/coordinator/` |
 | [StuntCV: computer-vision analysis for cheerleading stunts](project/stuntcv/brag.md) | `project/stuntcv/` |
 | [OVERSEER: eye-health & posture accountability desktop app (shipped with paywall)](project/overseer/brag.md) | `project/overseer/` |
@@ -55,13 +55,6 @@ The master record of my work: every job, my degree, every project, and the photo
 ## How to read a sheet
 
 Every `brag.md` follows the same structure: **Snapshot → Headline numbers → Accomplishments → Resume-ready bullets → Keywords → Soundbites → Artifacts & photos**. Not every sheet has every section.
-
-| Tag | Meaning |
-|---|---|
-| ✅ Verified | Backed by an inspected artifact: git history, the GitHub API, a live site, or a repo file |
-| 🟢 Documented | Consistent across my résumés and notes; no independent artifact was checked |
-| 🟡 Estimate | A projection, grade estimate, or recollection. Read it as approximate |
-| ❓ | Unknown or not yet recorded |
 
 ## About this repo
 

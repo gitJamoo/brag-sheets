@@ -13,10 +13,9 @@ dates: 2026-07 → present
 James's **current role**, which he started right after graduating in June 2026. Magical is a **Series A workflow-automation startup in San Francisco**. James builds **AI-powered workflow automation features**, the agentic capabilities that turn a natural-language request into a multi-step business process, and ships them end to end, from prompt engineering to production.
 
 ## 2. Headline numbers
-| Number | Tag | Source |
-|---|---|---|
-| Start date: July 2026 | 🟢 | résumé |
-| Shipped-feature metrics | ❓ | not recorded (current employer; nothing public yet) |
+| Number | Source |
+| --- | --- |
+| Start date: July 2026 | résumé |
 
 ## 3. What the work covers
 - **AI product features:** shipped from prompt design through evaluation to production.

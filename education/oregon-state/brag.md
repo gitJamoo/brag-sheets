@@ -17,13 +17,13 @@ James earned a **B.S. in Computer Science** with a focus in Machine Learning & A
 His senior capstone was **OpenBeavs**, the university's AI-agent platform.
 
 ## 2. Headline numbers
-| Item | Value | Tag |
-|---|---|---|
-| Honors | Cum Laude · Dean's List · Honor Roll | 🟢 |
-| GPA | 3.5+ | 🟢 |
-| D1 athletics | 20+ hrs/week year-round, Feb 2023 → Jun 2026; football (Reser Stadium), men's & women's basketball (Gill Coliseum), wrestling, volleyball; women's basketball at March Madness, Pac-12 men's basketball tournament | 🟢 |
-| Pitch competition | Won OSU's school-wide startup pitch competition with Envolvly | 🟢 |
-| Capstone | OpenBeavs: 57% of core-repo commits, 28 of 49 merged PRs | ✅ |
+| Item | Value |
+| --- | --- |
+| Honors | Cum Laude · Honor Roll (5 terms) |
+| GPA | 3.51 |
+| D1 athletics | 20+ hrs/week year-round, Feb 2023 → Jun 2026; football (Reser Stadium), men's & women's basketball (Gill Coliseum), wrestling, volleyball; women's basketball at March Madness, Pac-12 men's basketball tournament |
+| Pitch competition | Won OSU's school-wide startup pitch competition with Envolvly |
+| Capstone | OpenBeavs: 57% of core-repo commits, 28 of 49 merged PRs |
 
 ## 3. Highlights
 - **Senior capstone:** [OpenBeavs](../../project/openbeavs/brag.md), a four-person team building OSU's A2A agent hub.
@@ -45,7 +45,7 @@ His senior capstone was **OpenBeavs**, the university's AI-agent platform.
 
 ## 7. Photos
 | | |
-|---|---|
+| --- | --- |
 | ![Running the flag at an Oregon State football game](assets/osu-cheer-running-flag.jpeg) | ![With Benny Beaver on the field](assets/osu-with-benny-on-field.jpg) |
 | ![Stunting a cupie](assets/osu-cheer-cupie.jpg) | ![Cheering on the Beavs](assets/osu-cheer-cheering-on-beavs.jpg) |
 | ![Women's basketball at March Madness](assets/osu-cheer-wbb-march-madness.jpg) | ![Representing the Beavs at the Pac-12 men's basketball tournament](assets/osu-cheer-pac12-mbb-tournament.jpg) |

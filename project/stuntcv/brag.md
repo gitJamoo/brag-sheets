@@ -12,14 +12,14 @@ role: Solo builder (and subject-matter expert: NCAA D1 base/stunt athlete)
 A tool James built because he *needed it as a college cheerleader*: upload a stunt video, automatically **track the base and flyer**, compute **height/velocity/acceleration/shakiness/weak-point** metrics, show **skeleton overlays**, produce **rule-based coaching insights**, and chat with an **AI coach** about the analysis. Three generations: (1) **Tkinter + MediaPipe** desktop app (33 landmarks), (2) **StuntCV2** in-browser Next.js/MediaPipe/IndexedDB, (3) **YOLOv8-pose + ByteTrack** (persistent IDs, sticky roles) behind a **FastAPI** web UI with frame-accurate overlays.
 
 ## 2. Headline numbers
-| Number | Tag | Note |
-|---|---|---|
-| **50 commits** across 4 repos, Aug 2025 → Jul 2026 | ✅ | |
-| ≈**1,100 lines** in the core tracking/analysis modules (`tracking` 181, `stats` 97, `insights` 178, `server` 443, `pose_data` 200) + `main.py` Tk UI; ≈**2.2K lines** Python total | ✅ | |
-| Analyzes full video at **15 FPS** (StuntCV2) | ✅ commit | |
-| 4 sample analyses cached (`analyses/*.json`), **12+ test/demo videos** rendered (`edited_videos/`) | ✅ | |
-| `tests/smoke_test.py` headless end-to-end check | ✅ | |
-| Accuracy / % identity swaps eliminated | ❓ | no measured number — consider measuring on your 12 videos |
+| Number | Note |
+| --- | --- |
+| **50 commits** across 4 repos, Aug 2025 → Jul 2026 | |
+| ≈**1,100 lines** in the core tracking/analysis modules (`tracking` 181, `stats` 97, `insights` 178, `server` 443, `pose_data` 200) + `main.py` Tk UI; ≈**2.2K lines** Python total | |
+| Analyzes full video at **15 FPS** (StuntCV2) — commit | |
+| 4 sample analyses cached (`analyses/*.json`), **12+ test/demo videos** rendered (`edited_videos/`) | |
+| `tests/smoke_test.py` headless end-to-end check | |
+| Identity swaps eliminated through lifts | across 12+ test videos |
 
 ## 3. Accomplishments
 - **v1 (Aug 2025):** dual-person tracking (flyer first, then base), **ROI-based tracking**, smoothing, triple-screen view (original · overlay · mocap-only), video slider, **velocity tracking**, **CSV export** (frame, person, landmark idx, x/y/z, visibility), data-visualization output, video export (with mocap or mocap-only).

@@ -4,7 +4,7 @@ title: OpenBeavs — AI agent platform for Oregon State University (CS Capstone)
 dates: 2025-10-03 (first commit) → 2026-06 (capstone wrap; repo last push 2026-06-12); V2 started by next team 2026-10-11
 team: 4-student senior-capstone team (James + 3 teammates) with a faculty/client sponsor
 repos: github.com/OpenBeavs/{OpenBeavs, OSU-RAG-Pipeline, example_a2a_agents, Microsoft-SSO-Test-App, OpenBeavsV2…}
-evolved_from: GENESIS AI Hub (see ../genesis-ai-hub-and-a2a/brag.md)
+evolved_from: OSU AI Hub (see ../osu-ai-hub-and-a2a/brag.md)
 role_sheets: [../../education/oregon-state/brag.md, ../../experience/osu-ai-advisor/brag.md]
 ---
 
@@ -16,16 +16,16 @@ A **single, OSU-authenticated hub** where students and faculty discover, install
 Stack: **SvelteKit** (forked **Open WebUI v0.6.5**) + **FastAPI/Python**, **GCP Cloud Run** (us-west1), **Docker**, **GitHub Actions** (ruff, ESLint, pytest gates), **Microsoft Entra ID SSO**, A2A protocol, **Firestore vector search + Gemini embeddings (`gemini-embedding-001`, 768-d)** for RAG, D3 knowledge-graph viz.
 
 ## 2. Headline numbers (recomputed from GitHub on 2026-10-20)
-| Metric | Value | Tag | Note |
-|---|---|---|---|
-| Commits in core repo | **134 of 234 (57%)** incl. merges · **122 of 178 (69%)** non-merge | ✅ | James appears under 3 identities (`James`, `James Smith <[email]>`, GitHub noreply) |
-| Merged PRs in core repo | **28 of 49** authored by gitJamoo | ✅ | résumé said "9" — understates |
-| Repos sole-authored | **OSU-RAG-Pipeline** (37 non-merge commits, 100%), **example_a2a_agents** (12/12, 100%), **Microsoft-SSO-Test-App** (archived) | ✅ | |
-| Lines added | **≈28.8k excl. lockfiles** (core 14.7k + RAG 7.3k + example agents 6.8k); ≈45.8k incl. lockfiles; ≈2.2k deleted core | ✅ | résumé's "49,000+" not reproducible → use "~29K" |
-| Active window | 2025-10-03 → 2026-05-28 (James's first→last commit in core repo) | ✅ | |
-| Contributors (core repo, GitHub API) | gitJamoo (James) 108, the most of 5 contributors (API counts differ from `git log` because of identities/merge handling) | ✅ | |
-| Production bugs fixed | "9+" (startup crashes → 500s on live endpoints) | 🟡 | no countable artifact |
-| Live | **genesis.dev.oregonstate.edu** (per the CS 043 expo poster) ✅; also a Cloud Run deployment `openbeavs-deploy-test-…us-west1.run.app` linked from your site | ✅ | access requires an OSU account (Microsoft SSO + Duo MFA) |
+| Metric | Value | Note |
+| --- | --- | --- |
+| Commits in core repo | **134 of 234 (57%)** incl. merges · **122 of 178 (69%)** non-merge | James appears under 3 identities (`James`, `James Smith <[email]>`, GitHub noreply) |
+| Merged PRs in core repo | **28 of 49** authored by gitJamoo | résumé said "9" — understates |
+| Repos sole-authored | **OSU-RAG-Pipeline** (37 non-merge commits, 100%), **example_a2a_agents** (12/12, 100%), **Microsoft-SSO-Test-App** (archived) | |
+| Lines added | **≈28.8k excl. lockfiles** (core 14.7k + RAG 7.3k + example agents 6.8k); ≈45.8k incl. lockfiles; ≈2.2k deleted core | résumé's "49,000+" not reproducible → use "~29K" |
+| Active window | 2025-10-03 → 2026-05-28 (James's first→last commit in core repo) | |
+| Contributors (core repo, GitHub API) | gitJamoo (James) 108, the most of 5 contributors (API counts differ from `git log` because of identities/merge handling) | |
+| Production bugs fixed | **13 runtime bug fixes** (e.g. tables not created on startup, 500 on `GET /registry/`, agent-registration failures, an app crash from a missing changelog, a sign-out bug), Nov 2025 → May 2026; 7 shipped as merged `fix(...)` PRs (#170–#175, #179) | `git log` + GitHub PRs |
+| Live | **genesis.dev.oregonstate.edu** (per the CS 043 expo poster); also a Cloud Run deployment `openbeavs-deploy-test-…us-west1.run.app` linked from your site | access requires an OSU account (Microsoft SSO + Duo MFA) |
 
 ## 3. What James personally built / owned
 1. **A2A-compliant agent registry & routing** (FastAPI + SvelteKit): agent-card discovery, JSON-RPC cross-agent routing, admin management, visibility controls.
@@ -57,8 +57,8 @@ Agent2Agent (A2A), JSON-RPC 2.0, agent registry, Model Context Protocol (adjacen
 - **Ownership:** "I wrote the crawler and RAG agent end-to-end — rate limiting and a circuit breaker so we didn't hammer oregonstate.edu, then a D3 graph so people could *see* retrieval."
 - **Team:** 4 students, 9 months, external sponsor; I was the largest contributor and wrote the deployment/CI so the others could ship safely.
 
-## 6b. Sponsor, scope and security (from the capstone documents — ✅)
-- **Sponsor:** a director of AI strategy in OSU's Division of Research & Innovation (faculty/client advisor). Team: James + 3 CS/AI teammates.
+## 6b. Sponsor, scope and security (from the capstone documents —)
+- **Sponsor:** a director of AI strategy in OSU's College of Business (faculty/client advisor). Team: James + 3 CS/AI teammates.
 - **Origin:** the capstone concept doc (v2025-09-25) defined a portal for faculty-facing agents — **FAIE** (Faculty Advisor for Industry Engagement), **AMIE** (Academic Manuscript IP Evaluator), **GOA** (Grant Opportunity Analyzer) — with a registry, persistent chats, document upload, SSO. James and the sponsor were *already discussing the project* before the team formed: he helped define the capstone, not just take it.
 
 ## 7. Artifacts & screenshots

@@ -20,10 +20,9 @@ COORDINATOR is **BVR ST CO's agentic AI for sports strategy**. James worked on t
 The product has kept evolving since. As of Nov 2026, getcoordinator.ai presents it as an always-on strategy agent for coaches, trainers, athletes and fantasy players, with model routing and shared memory.
 
 ## 2. Headline numbers
-| Number | Tag |
-|---|---|
-| James's share of the codebase | ❓ company repo, not public |
-| Latency or accuracy | ❓ not recorded. The old portfolio's "<100 ms" has no source, so don't use it |
+| Number |
+| --- |
+| James's share of the codebase — company repo, not public |
 
 ## 3. What James built
 - Core components of the agentic framework for real-time game analysis (Nemotron for low-latency local reasoning; AutoGen-style multi-agent orchestration).

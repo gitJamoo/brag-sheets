@@ -15,10 +15,10 @@ James's first engineering internship, the summer before college. He scoped, buil
 Stack: **React, Node.js, SQL, Figma, Jenkins.**
 
 ## 2. Headline numbers
-| Number | Tag | Source |
-|---|---|---|
-| **200,000+** unique users, **200+** organizations served by the panel | 🟢 | résumé |
-| Recurring admin task: **~2 hours → seconds** (under 30 s) | 🟢 | résumé / notes |
+| Number | Source |
+| --- | --- |
+| **200,000+** unique users, **200+** organizations served by the panel | résumé |
+| Recurring admin task: **~2 hours → seconds** (under 30 s) | résumé / notes |
 
 ## 3. Accomplishments
 1. **Admin control panel.** Drafted, built and documented the company-wide panel, from Figma designs to a React frontend, Node.js API and SQL persistence, with real-time updates.

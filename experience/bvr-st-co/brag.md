@@ -17,10 +17,9 @@ James held an ML internship at BVR ST CO, a sports-AI startup, alongside his las
 - **Analysis pipelines:** ML pipelines for player-tracking data and computer-vision work on game film.
 
 ## 2. Headline numbers
-| Number | Tag | Source |
-|---|---|---|
-| ~9 months (Oct 2025 → Jun 2026), part-time during the school year | 🟢 | résumé |
-| Performance metrics (latency, accuracy) | ❓ | not recorded; don't quote the portfolio's old "<100 ms" |
+| Number | Source |
+| --- | --- |
+| ~9 months (Oct 2025 → Jun 2026), part-time during the school year | résumé |
 
 ## 3. Accomplishments
 1. **Agentic framework for live games.** Built core parts of COORDINATOR's agent framework. It ingests play-by-play, video and schematic data and gives tactical reads during a game, with a fast path for in-game calls and a slower path for deeper analysis between possessions.

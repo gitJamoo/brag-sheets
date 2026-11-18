@@ -10,7 +10,7 @@ email: real.jamesmsmith@gmail.com
 
 ## Bio
 James is an **AI/Product Engineer at Magical** in San Francisco, with about four years of experience building production AI systems, full-stack apps and automation pipelines. He has:
-- shipped an Estée Lauder recommendation engine projected at **$1.5M** in annual revenue, plus an LLM cache targeting **45%** cost savings;
+- worked on an Estée Lauder recommendation chatbot projected at **$1.5M** in annual revenue;
 - built and secured a production AI quoting agent as an independent consultant;
 - co-founded **Envolvly**, which won Oregon State's school-wide pitch competition;
 - led engineering on **OpenBeavs**, Oregon State's AI-agent platform.
@@ -40,7 +40,7 @@ He graduated from **Oregon State University** in June 2026 (B.S. Computer Scienc
 
 ## Headshots & site media
 | | | |
-|---|---|---|
+| --- | --- | --- |
 | ![Smiling headshot](assets/smiling-headshot.jpg) | ![Headshot](assets/headshot.jpg) | ![Headshot in Beaver gear](assets/beaver-headshot.jpg) |
 
 - Link-preview image: `assets/og-image.png`
