@@ -10,6 +10,11 @@ related: ../../experience/bvr-st-co/brag.md
 
 # COORDINATOR
 
+<!-- hero -->
+![How COORDINATOR turns game film into roster-specific analysis.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/bvr-st-co/assets/coordinator-pipeline.png)
+*How COORDINATOR turns game film into roster-specific analysis.*
+
+
 ## 1. Snapshot
 COORDINATOR is **BVR ST CO's agentic AI for sports strategy**. James worked on the original version as a software engineer. It was a system for **real-time football game analysis** that:
 - took in live play-by-play, video and schematic data, and surfaced tactical recommendations mid-game;
@@ -37,4 +42,4 @@ Agentic AI, multi-agent systems, AutoGen, NVIDIA Nemotron, DGX Spark, local infe
 
 ## 6. Artifacts
 - Live: https://getcoordinator.ai/ · launch post: https://bvrstco.com/blog/introducing-coordinator
-- ![COORDINATOR portfolio card](assets/portfolio-thumbnail.png)
+- ![COORDINATOR portfolio card](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/coordinator/assets/portfolio-thumbnail.png)

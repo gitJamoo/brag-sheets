@@ -8,6 +8,11 @@ role: Solo
 
 # j-m-s.dev — Wormhole & LLM Sandbox
 
+<!-- hero -->
+![j-m-s.dev: the AI-generated portfolio and 3D LLM sandbox.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/wormhole-portfolio/assets/portfolio-home.png)
+*j-m-s.dev: the AI-generated portfolio and 3D LLM sandbox.*
+
+
 ## 1. Snapshot
 A portfolio that is itself a demo: the **Wormhole** — a catch-all route (`/wormhole/*`) where an LLM *generates every page as you browse* (no two visits alike), fed James's bio/résumé as context, with a **config UI** to pick provider/model (Gemini, OpenAI, Anthropic via Vercel AI SDK), language, temperature, and custom instructions; plus a static professional `/home` (experience, projects, education), **Playground → LLM Sandbox**: an interactive **3D learning lab (React Three Fiber / three.js)** visualizing **tokenization, embedding clustering, cosine similarity, and word-vector analogies (king − man + woman ≈ queen)** where an LLM assigns live 3D coordinates to arbitrary words; Cal.com **booking** page; **blog** (MDX); contact modal storing submissions in **Vercel Blob**; `llms.txt`/`agents.txt` for AI-crawler discoverability.
 
@@ -39,5 +44,5 @@ Next.js App Router, React 19, TypeScript, Tailwind 4, Vercel AI SDK, multi-provi
 ## 7. Screenshots (captured 2026-10-20)
 | | |
 | --- | --- |
-| ![home](assets/portfolio-home.png) | ![playground](assets/portfolio-playground.png) |
-| ![blog](assets/portfolio-blog.png) | ![card](assets/portfolio-thumbnail.png) |
+| ![home](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/wormhole-portfolio/assets/portfolio-home.png) | ![playground](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/wormhole-portfolio/assets/portfolio-playground.png) |
+| ![blog](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/wormhole-portfolio/assets/portfolio-blog.png) | ![card](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/wormhole-portfolio/assets/portfolio-thumbnail.png) |

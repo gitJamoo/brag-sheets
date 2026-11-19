@@ -7,7 +7,7 @@ The master record of my work: every job, my degree, every project, and the photo
 - **LinkedIn:** [james-m-smith1](https://www.linkedin.com/in/james-m-smith1)
 - **Email:** real.jamesmsmith@gmail.com
 
-> **Using an AI agent?** Point it at this repo and it will read [`AGENTS.md`](AGENTS.md), which explains the layout, the sheet format and how to cite claims.
+> **Using an AI agent?** Point it at this repo. It will read [`AGENTS.md`](AGENTS.md), which explains the layout and how to cite claims, and [`profile.json`](profile.json), which has everything in one file.
 
 ## Profile
 

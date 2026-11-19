@@ -9,6 +9,11 @@ dates: 2026-07 → present
 
 # Magical — AI/Product Engineer
 
+<!-- hero -->
+![The two production agents James shipped at Magical: one reviews every workflow change, one fixes live failures autonomously (95% real-world accuracy). Both run daily on every customer automation.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/magical/assets/magical-agents.png)
+*The two production agents James shipped at Magical: one reviews every workflow change, one fixes live failures autonomously (95% real-world accuracy). Both run daily on every customer automation.*
+
+
 ## 1. Snapshot
 James's **current role**, which he started right after graduating in June 2026. Magical is a **Series A workflow-automation startup in San Francisco**. James builds the AI agents and platform infrastructure behind customer automations: he has shipped **two production agents that run daily on every automation**, led a **model switch saving an estimated $450K a year**, rebuilt the **evals and benchmarking engine**, and built **git-style branching and versioning** for workflows.
 
@@ -41,4 +46,7 @@ James's **current role**, which he started right after graduating in June 2026. 
 AI product engineering, AI agents, agentic AI, autonomous agents, code review automation, regression detection, self-healing workflows, workflow automation, LLM evaluation, evals, benchmarking, model selection, LLM cost optimization, version control, branching, production deployment, startup, San Francisco.
 
 ## 6. Artifacts
-Logo: `assets/logo.png`
+![How the rebuilt evals engine made the ~$450K/yr model switch safe, with no regressions](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/magical/assets/magical-evals.png)
+*How the rebuilt evals engine made the ~$450K/yr model switch safe, with no regressions.*
+
+Logo: https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/magical/assets/logo.png

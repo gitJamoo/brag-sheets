@@ -9,6 +9,11 @@ repo: private
 
 # Envolvly
 
+<!-- hero -->
+![Envolvly winning Oregon State's school-wide startup pitch competition.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/envolvly/assets/envolvly-winning-pitch.jpg)
+*Envolvly winning Oregon State's school-wide startup pitch competition.*
+
+
 ## 1. Snapshot
 Envolvly is a **B2B SaaS marketplace for creators** ("a platform for creators", per envolvly.com). James co-founded it at Oregon State and is its **technical co-founder and lead engineer**. He built the full **MERN** application (MongoDB, Express, React, Node.js) from scratch on AWS, set up CI/CD, added **Auth0** authentication and **Stripe Connect** payments and payouts. Envolvly **won Oregon State's school-wide startup pitch competition**.
 
@@ -43,6 +48,6 @@ Startup, co-founder, B2B SaaS, marketplace, creator economy, MERN, MongoDB, Expr
 
 ## 7. Artifacts & photos
 - Live: https://www.envolvly.com
-- ![Envolvly winning OSU's pitch competition](assets/envolvly-winning-pitch.jpg)
-- ![Envolvly portfolio card](assets/portfolio-thumbnail.png)
+- ![Envolvly winning OSU's pitch competition](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/envolvly/assets/envolvly-winning-pitch.jpg)
+- ![Envolvly portfolio card](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/envolvly/assets/portfolio-thumbnail.png)
 - Logo: `assets/logo.png`

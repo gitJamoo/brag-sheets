@@ -8,6 +8,11 @@ role: Solo founder/developer
 
 # OVERSEER
 
+<!-- hero -->
+![OVERSEER: on-device computer vision for posture and focus, shipped with a paywall in 13 days.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/overseer/assets/portfolio-thumbnail.png)
+*OVERSEER: on-device computer vision for posture and focus, shipped with a paywall in 13 days.*
+
+
 ## 1. Snapshot
 A **commercial-style desktop app** (Tauri v2 + React/TypeScript + Rust, OpenCV-based vision) that watches you through the webcam with **low CPU overhead** to enforce **posture** (slouch >30 s), **eye/gaze focus** (looking away → full-screen "focus lock"), and **Pomodoro** work sessions — with a **focus meter**, **gaze calibration**, **onboarding wizard**, and **alert overlays**. Monetized: **Supabase Auth + Postgres RLS**, automatic **14-day free trial** via DB trigger, and **LemonSqueezy license-key** activation, with offline-tolerant license checks. A dedicated **"mysterious" dark landing page** with OS detection (Win/macOS/Linux download button) shipped Dec 24.
 

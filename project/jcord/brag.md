@@ -10,6 +10,11 @@ demo: https://youtu.be/jhuBei7J2RM
 
 # jcord
 
+<!-- hero -->
+![jcord: real-time chat with voice and video, built in about a day.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/jcord/assets/demo-video-thumbnail.jpg)
+*jcord: real-time chat with voice and video, built in about a day.*
+
+
 ## 1. Snapshot
 A **real-time chat, voice and video app**, built solo as a **take-home challenge** in about a day. The spec asked for four things: rooms, real-time messages, an active-user list and accounts. jcord does all four and then adds most of the optional bonus features:
 - **voice and video** over WebRTC with LiveKit, in a Discord-style grid;
@@ -48,5 +53,5 @@ Real-time systems, WebSockets, WebRTC, LiveKit, Supabase Realtime, Supabase Auth
 ## 6. Artifacts
 - Repo: https://github.com/gitJamoo/jcord
 - Live: https://takehome-james-michael-smith.vercel.app/
-- Demo video: https://youtu.be/jhuBei7J2RM, thumbnail: ![jcord demo video](assets/demo-video-thumbnail.jpg)
-- ![jcord portfolio card](assets/portfolio-thumbnail.png)
+- Demo video: https://youtu.be/jhuBei7J2RM, thumbnail: ![jcord demo video](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/jcord/assets/demo-video-thumbnail.jpg)
+- ![jcord portfolio card](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/jcord/assets/portfolio-thumbnail.png)

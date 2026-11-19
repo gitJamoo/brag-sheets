@@ -9,6 +9,11 @@ related: ../openbeavs/brag.md (same product, later phase — see audit #7)
 
 # OSU AI Hub & A2A Reference Systems
 
+<!-- hero -->
+![The OSU AI Hub and its A2A agent ecosystem.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/osu-ai-advisor/assets/ai-hub-a2a.png)
+*The OSU AI Hub and its A2A agent ecosystem.*
+
+
 ## Product lineage (say this in interviews to avoid "two projects?" confusion)
 `OSU AI Hub` (React + FastAPI/Express registry, Aug–Dec 2025; repo `OpenBeavs/original-frontend`, archived) → forked **Open WebUI v0.6.5** (`OpenBeavs/open-webui`, archived Oct 2025) → **OpenBeavs** (SvelteKit + FastAPI, capstone, live) — one platform, three iterations.
 
@@ -35,4 +40,4 @@ related: ../openbeavs/brag.md (same product, later phase — see audit #7)
 A2A, Google ADK, SequentialAgent, JSON-RPC, agent cards, FastAPI, orchestration, tone classification, prompt design, GitHub Actions, unittest, Claude Code, qwen-code, Typst, Entra ID SSO.
 
 ## Artifacts
-![OSU AI Hub portfolio card](assets/portfolio-thumbnail.png)
+![OSU AI Hub portfolio card](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/osu-ai-hub-and-a2a/assets/portfolio-thumbnail.png)

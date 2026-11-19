@@ -8,6 +8,11 @@ role: Solo builder (and subject-matter expert: NCAA D1 base/stunt athlete)
 
 # StuntCV
 
+<!-- hero -->
+![StuntCV: computer-vision analysis of cheerleading stunts (YOLOv8-pose, ByteTrack).](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/stuntcv/assets/portfolio-thumbnail.png)
+*StuntCV: computer-vision analysis of cheerleading stunts (YOLOv8-pose, ByteTrack).*
+
+
 ## 1. Snapshot
 A tool James built because he *needed it as a college cheerleader*: upload a stunt video, automatically **track the base and flyer**, compute **height/velocity/acceleration/shakiness/weak-point** metrics, show **skeleton overlays**, produce **rule-based coaching insights**, and chat with an **AI coach** about the analysis. Three generations: (1) **Tkinter + MediaPipe** desktop app (33 landmarks), (2) **StuntCV2** in-browser Next.js/MediaPipe/IndexedDB, (3) **YOLOv8-pose + ByteTrack** (persistent IDs, sticky roles) behind a **FastAPI** web UI with frame-accurate overlays.
 
@@ -44,4 +49,4 @@ Computer vision, pose estimation, YOLOv8-pose (Ultralytics), ByteTrack multi-obj
 ## 7. Artifacts & screenshots
 Repos are listed above. Demo frames are kept private because they show other athletes.
 
-![StuntCV portfolio card](assets/portfolio-thumbnail.png)
+![StuntCV portfolio card](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/stuntcv/assets/portfolio-thumbnail.png)

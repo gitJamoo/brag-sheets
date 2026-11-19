@@ -9,6 +9,11 @@ dates: 2024-06 → 2024-08
 
 # NJ Transit — Programmer & Technical Analyst Intern
 
+<!-- hero -->
+![On site in the NJ Transit console room during the 2024 internship.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/nj-transit/assets/njt-hardhat-console-room.jpg)
+*On site in the NJ Transit console room during the 2024 internship.*
+
+
 ## 1. Snapshot
 Summer 2024 on NJ Transit's engineering and innovations team. James hardened a **statewide digital incident-reporting system** with a large test suite and wired it into CI. He also automated an audit of the agency's **127 legacy .NET projects (2010–2023)** and found and fixed security issues in how employee data was handled.
 
@@ -45,7 +50,7 @@ Test automation, Jest, Gherkin, Cucumber, BDD, code coverage, CI/CD, Azure Pipel
 ## 7. Photos
 | | |
 | --- | --- |
-| ![In a hard hat in the NJ Transit console room](assets/njt-hardhat-console-room.jpg) | ![2024 intern cohort, official NJ Transit photo](assets/njt-intern-group-official.jpg) |
-| ![With the intern cohort](assets/njt-intern-group.jpg) | |
+| ![In a hard hat in the NJ Transit console room](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/nj-transit/assets/njt-hardhat-console-room.jpg) | ![2024 intern cohort, official NJ Transit photo](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/nj-transit/assets/njt-intern-group-official.jpg) |
+| ![With the intern cohort](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/nj-transit/assets/njt-intern-group.jpg) | |
 
 Logo: `assets/logo.jpeg`
