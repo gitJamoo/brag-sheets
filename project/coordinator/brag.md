@@ -1,7 +1,7 @@
 ---
 type: project
 title: COORDINATOR — agentic AI for real-time sports strategy (built at BVR ST CO)
-role: ML Intern, core contributor (company product, not sole author)
+role: Software Engineer, core contributor (company product, not sole author)
 dates: 2025-10 → 2026-06
 org: BVR ST CO
 live: https://getcoordinator.ai/
@@ -11,7 +11,7 @@ related: ../../experience/bvr-st-co/brag.md
 # COORDINATOR
 
 ## 1. Snapshot
-COORDINATOR is **BVR ST CO's agentic AI for sports strategy**. James worked on the original version as an ML intern. It was a system for **real-time football game analysis** that:
+COORDINATOR is **BVR ST CO's agentic AI for sports strategy**. James worked on the original version as a software engineer. It was a system for **real-time football game analysis** that:
 - took in live play-by-play, video and schematic data, and surfaced tactical recommendations mid-game;
 - used a **dual-mode reasoning** design: a fast path for in-game calls and a slow path for deeper analysis between possessions;
 - ran **locally on NVIDIA hardware** (DGX Spark class) with **NVIDIA Nemotron**, so coaching data never left the facility;

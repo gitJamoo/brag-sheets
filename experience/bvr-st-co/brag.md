@@ -1,17 +1,17 @@
 ---
 type: experience
-title: Machine Learning Intern — BVR ST CO
+title: Software Engineer — BVR ST CO
 org: BVR ST CO (sports-AI startup)
-role: Machine Learning Intern
+role: Software Engineer
 location: Corvallis, OR
 dates: 2025-10 → 2026-06
 related: ../../project/coordinator/brag.md
 ---
 
-# BVR ST CO — Machine Learning Intern
+# BVR ST CO — Software Engineer
 
 ## 1. Snapshot
-James held an ML internship at BVR ST CO, a sports-AI startup, alongside his last year at Oregon State. He built core pieces of **COORDINATOR**, the company's agentic AI framework for **real-time football game analysis**:
+James worked as a software engineer at BVR ST CO, a sports-AI startup, alongside his last year at Oregon State. He built core pieces of **COORDINATOR**, the company's agentic AI framework for **real-time football game analysis**:
 - **Local reasoning:** low-latency inference with **NVIDIA Nemotron** on local hardware, so coaching data stays in the building.
 - **LoRA fine-tuning:** lets the system learn from verified real-time game outcomes.
 - **Analysis pipelines:** ML pipelines for player-tracking data and computer-vision work on game film.
@@ -32,7 +32,7 @@ James held an ML internship at BVR ST CO, a sports-AI startup, alongside his las
 - Implemented LoRA fine-tuning to enable efficient reinforcement-based learning from verified real-time game outcomes.
 - Built ML pipelines over player-tracking data and computer-vision models for automated game-film breakdown.
 
-**Short:** ML intern at BVR ST CO: agentic real-time football analysis (Nemotron, LoRA) behind COORDINATOR.
+**Short:** Software Engineer at BVR ST CO: agentic real-time football analysis (Nemotron, LoRA) behind COORDINATOR.
 
 ## 5. Keywords
 Agentic AI, NVIDIA Nemotron, AutoGen, LoRA, fine-tuning, reinforcement learning, local inference, DGX Spark, sports analytics, computer vision, player tracking, real-time systems.

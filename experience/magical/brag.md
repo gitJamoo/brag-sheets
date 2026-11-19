@@ -10,23 +10,33 @@ dates: 2026-07 → present
 # Magical — AI/Product Engineer
 
 ## 1. Snapshot
-James's **current role**, which he started right after graduating in June 2026. Magical is a **Series A workflow-automation startup in San Francisco**. James builds **AI-powered workflow automation features**, the agentic capabilities that turn a natural-language request into a multi-step business process, and ships them end to end, from prompt engineering to production.
+James's **current role**, which he started right after graduating in June 2026. Magical is a **Series A workflow-automation startup in San Francisco**. James builds the AI agents and platform infrastructure behind customer automations: he has shipped **two production agents that run daily on every automation**, led a **model switch saving an estimated $450K a year**, rebuilt the **evals and benchmarking engine**, and built **git-style branching and versioning** for workflows.
 
 ## 2. Headline numbers
 | Number | Source |
 | --- | --- |
 | Start date: July 2026 | résumé |
+| **2 AI agents** shipped to production, running **daily on every customer automation** | James |
+| **~$450K a year** estimated savings from switching to cheaper, better-performing agent models, with **no regressions** | James (internal estimate) |
 
-## 3. What the work covers
-- **AI product features:** shipped from prompt design through evaluation to production.
-- **Agentic automation:** turns natural-language requests into multi-step business workflows.
-- **Product engineering:** owns features end to end on a small team.
+## 3. Accomplishments
+1. **Workflow review agent.** Reviews every new piece of work posted to customer workflows, checks it for bugs and regressions, and proposes a patch when it catches one. It moved the team's engineers from implementing changes to reviewing them.
+2. **Autonomous fixing agent.** Scans the work the workflows handle, catches real-world issues in live customer automations, and fixes them for customers fully autonomously.
+3. **Both agents in production.** Both run on all automations, every day.
+4. **Model switch (~$450K a year).** Proposed and carried through a move to cheaper, improved agent models with no regressions, saving an estimated $450K a year.
+5. **Evals and benchmarks engine.** Rewrote the evals and benchmarking engine from the ground up.
+6. **Branching and versioning.** Implemented a branching and versioning system for workflows, modeled closely on git.
 
 ## 4. Resume-ready bullets
-- Build and ship AI-powered workflow-automation features end to end, from prompt engineering to production deployment, at a Series A startup in San Francisco.
+- Shipped a production review agent that checks every new workflow change for bugs and regressions and proposes patches, moving engineers from implementers to reviewers.
+- Shipped an autonomous agent that catches real-world failures in live workflows and fixes them for customers; both agents run daily on every automation.
+- Proposed and led a switch to cheaper, better-performing agent models with no regressions, saving an estimated $450K a year.
+- Rebuilt the evals and benchmarking engine from the ground up, and built git-style branching and versioning for workflows.
+
+**Short:** AI/Product Engineer at Magical: shipped 2 production agents running on every automation and a model switch saving ~$450K a year.
 
 ## 5. Keywords
-AI product engineering, agentic AI, workflow automation, LLM features, prompt engineering, production deployment, startup, San Francisco.
+AI product engineering, AI agents, agentic AI, autonomous agents, code review automation, regression detection, self-healing workflows, workflow automation, LLM evaluation, evals, benchmarking, model selection, LLM cost optimization, version control, branching, production deployment, startup, San Francisco.
 
 ## 6. Artifacts
 Logo: `assets/logo.png`

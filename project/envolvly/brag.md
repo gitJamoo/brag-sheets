@@ -2,7 +2,7 @@
 type: project
 title: Envolvly — creator marketplace SaaS (co-founder, lead engineer)
 role: Co-Founder & Full-Stack Developer (lead engineer)
-dates: 2023-02 → present (product build from 2023-09)
+dates: 2023-02 → 2026-06 (product build from 2023-09)
 live: https://www.envolvly.com
 repo: private
 ---
