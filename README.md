@@ -20,13 +20,13 @@ The master record of my work: every job, my degree, every project, and the photo
 | Role | Dates | Folder |
 | --- | --- | --- |
 | [AI/Product Engineer, Magical Inc](experience/magical/brag.md) | Jul 2026 – present | `experience/magical/` |
-| [Founder / AI Automation Consultant: production AI quoting agent](experience/independent-ai-consulting/brag.md) | May – Jul 2026 | `experience/independent-ai-consulting/` |
-| [Machine Learning Intern, BVR ST CO](experience/bvr-st-co/brag.md) | Oct 2025 – Jun 2026 | `experience/bvr-st-co/` |
+| [AI Consultant: production AI quoting agent](experience/independent-ai-consulting/brag.md) | May – Jul 2026 | `experience/independent-ai-consulting/` |
+| [Software Engineer, BVR ST CO](experience/bvr-st-co/brag.md) | Oct 2025 – Jun 2026 | `experience/bvr-st-co/` |
 | [AI Advisor, Oregon State University (College of Business)](experience/osu-ai-advisor/brag.md) | Aug 2025 – Jun 2026 | `experience/osu-ai-advisor/` |
 | [Machine Learning Intern, The Estée Lauder Companies](experience/estee-lauder/brag.md) | Jun – Aug 2025 | `experience/estee-lauder/` |
 | [Data Analyst, Carrick FC](experience/carrick-fc/brag.md) | 2025 – 2026 | `experience/carrick-fc/` |
 | [Programmer & Technical Analyst Intern, NJ Transit](experience/nj-transit/brag.md) | Jun – Aug 2024 | `experience/nj-transit/` |
-| [Co-Founder & Lead Engineer, Envolvly](project/envolvly/brag.md) | Feb 2023 – present | `project/envolvly/` |
+| [Co-Founder & Lead Engineer, Envolvly](project/envolvly/brag.md) | Feb 2023 – Jun 2026 | `project/envolvly/` |
 | [Software Engineering Intern, Hats & Ladders](experience/hats-and-ladders/brag.md) | Jun – Aug 2022 | `experience/hats-and-ladders/` |
 
 ## Education

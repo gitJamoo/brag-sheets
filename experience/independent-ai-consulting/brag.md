@@ -1,8 +1,8 @@
 ---
 type: experience
-title: Founder / AI Automation Consultant — production AI quoting agent for a lumber manufacturer
+title: AI Consultant — production AI quoting agent for a lumber manufacturer
 org: Independent (client: a lumber manufacturer's sales desk; client name withheld)
-role: Founder / AI Automation Consultant (freelance AI engineer)
+role: AI Consultant (freelance AI engineer)
 location: Portland, OR (remote)
 dates: 2026-05 → 2026-07
 ---
@@ -17,6 +17,8 @@ Stack: **N8N** on a self-managed Linux server (**Cloudflare Tunnel** ingress, SS
 ## 2. Headline numbers
 | Number | Source |
 | --- | --- |
+| Saved each trader **~10 hours a month** by automating quoting | James |
+| Moved **$150K+ in revenue** through the agent | James |
 | **5-layer** pipeline with a single canonical pricing unit (MBF) enforced across every layer | résumé |
 | Corrected price-floor errors of **up to 3×** against wholesale market benchmarks | résumé |
 | Security audit: **7 findings remediated** | résumé |
@@ -32,12 +34,13 @@ Stack: **N8N** on a self-managed Linux server (**Cloudflare Tunnel** ingress, SS
 6. **Ops.** Runs on a self-managed Linux box: Cloudflare Tunnel ingress, SSH-forwarded DB access, no inbound ports.
 
 ## 4. Resume-ready bullets
-- Designed, built and deployed a production AI quoting agent for a lumber manufacturer's sales desk: it ingests RFQ emails, queries live ERP (SQL Server) inventory and pricing, and drafts Outlook-ready replies for traders.
+- Built and deployed a production AI quoting agent (Claude via OpenRouter, N8N, SQL Server) that automated quoting from RFQ emails, saving each trader 10 hours a month and moving $150K+ in revenue.
+- Built an operations dashboard showing each quote's margin against floor, customer history, stock coverage and the AI's reasoning trail.
 - Architected the pipeline in N8N on a self-managed Linux server (Cloudflare Tunnel, SSH-forwarded DB) with Claude Sonnet via OpenRouter under Zero Data Retention.
 - Grounded the SQL agent in a confirmed schema and enforced a canonical pricing unit (MBF) across five layers, correcting price-floor errors of up to 3×.
 - Ran a security audit and remediated **7 findings** (unauthenticated webhooks, DB write-gate bypasses, silent failures, provider privacy), backed by a 9-fixture prompt/SQL-injection regression suite.
 
-**Short:** Freelance: shipped a production AI quoting agent (N8N + Claude + SQL Server + Outlook) for a lumber manufacturer.
+**Short:** AI Consultant: shipped a production AI quoting agent (N8N + Claude + SQL Server + Outlook) for a lumber manufacturer, saving each trader ~10 hours a month and moving $150K+ in revenue.
 
 ## 5. Keywords
 AI agents, LLM orchestration, N8N, OpenRouter, Claude Sonnet, Zero Data Retention, SQL Server, T-SQL, text-to-SQL, ERP integration, Microsoft Graph API, Outlook, email automation, prompt injection, SQL injection, security audit, webhook authentication, Cloudflare Tunnel, Linux, dashboards, B2B, manufacturing, client delivery.
