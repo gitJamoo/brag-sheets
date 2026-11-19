@@ -9,6 +9,11 @@ dates: 2025-06 → 2025-08
 
 # The Estée Lauder Companies — Machine Learning Intern
 
+<!-- hero -->
+![Giving the final presentation of the recommendation-chatbot work at The Estée Lauder Companies.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/estee-lauder/assets/elc-final-presentation.jpg)
+*Giving the final presentation of the recommendation-chatbot work at The Estée Lauder Companies.*
+
+
 ## 1. Snapshot
 Summer 2025 ML internship on Estée Lauder's global Data Science & Analytics team in New York. As an intern on the team, James **worked on** the data and agent layer behind a **customer-facing product-recommendation chatbot** (a team project he contributed to, not one he led): unifying **12,000 live SKUs from 30+ brand databases** into one searchable index, the microservice that feeds it, and a **vector-database cache** in front of the team's internal LLM calls. He also did the analysis that helped stakeholders commit to retiring a legacy catalog system, and built Google ADK + MCP agent tooling, sending bug reports back to Google's ADK team.
 
@@ -51,8 +56,8 @@ Code and internal docs are proprietary; nothing is public.
 
 | | |
 | --- | --- |
-| ![In front of the Estée Lauder backdrop](assets/elc-in-front-of-backdrop.jpg) | ![Giving the final presentation](assets/elc-final-presentation.jpg) |
-| ![LaunchIQ](assets/elc-launchiq.jpg) | ![On the rooftop with the intern cohort](assets/elc-rooftop-with-co-interns.jpg) |
-| ![Name-tag collection from the summer](assets/elc-nametag-collection.jpg) | ![Featured in Estée Lauder's online content](assets/elc-online-candid.jpg) |
+| ![In front of the Estée Lauder backdrop](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/estee-lauder/assets/elc-in-front-of-backdrop.jpg) | ![Giving the final presentation](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/estee-lauder/assets/elc-final-presentation.jpg) |
+| ![LaunchIQ](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/estee-lauder/assets/elc-launchiq.jpg) | ![On the rooftop with the intern cohort](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/estee-lauder/assets/elc-rooftop-with-co-interns.jpg) |
+| ![Name-tag collection from the summer](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/estee-lauder/assets/elc-nametag-collection.jpg) | ![Featured in Estée Lauder's online content](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/estee-lauder/assets/elc-online-candid.jpg) |
 
 Logo: `assets/logo.png`

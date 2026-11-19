@@ -10,6 +10,11 @@ role_sheets: [../../education/oregon-state/brag.md, ../../experience/osu-ai-advi
 
 # OpenBeavs — AI Agent Platform for OSU
 
+<!-- hero -->
+![OpenBeavs RAG pipeline: knowledge-graph view of the indexed oregonstate.edu pages.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/openbeavs/assets/capstone-relational-mapping.png)
+*OpenBeavs RAG pipeline: knowledge-graph view of the indexed oregonstate.edu pages.*
+
+
 ## 1. Snapshot
 A **single, OSU-authenticated hub** where students and faculty discover, install, and chat with specialized AI agents — built on an open protocol (**Google A2A**, JSON-RPC 2.0, `/.well-known/agent.json` agent cards) so any team can register an agent in any language. Sign-in is **Microsoft SSO** (no new accounts). Shipped as the **OSU CS 46X senior capstone** (9 months, project sponsored by a professional/faculty advisor) and **went live**; the next capstone group (OpenBeavsV2, Oct 2026) continues it.
 
@@ -64,8 +69,8 @@ Agent2Agent (A2A), JSON-RPC 2.0, agent registry, Model Context Protocol (adjacen
 ## 7. Artifacts & screenshots
 - Repos (org `OpenBeavs`): `OpenBeavs`, `OSU-RAG-Pipeline`, `example_a2a_agents`, `Microsoft-SSO-Test-App` (archived), `original-frontend` (archived, React), `open-webui` fork (archived), `Cyrano-de-Bergerac-A2A-Secure`.
 
-![OpenBeavs card](assets/portfolio-thumbnail.png)
+![OpenBeavs card](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/openbeavs/assets/portfolio-thumbnail.png)
 
-![capstone relational mapping visualization](assets/capstone-relational-mapping.png)
+![capstone relational mapping visualization](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/openbeavs/assets/capstone-relational-mapping.png)
 
-Interactive version: [assets/capstone-relational-mapping.html](assets/capstone-relational-mapping.html)
+Interactive version: [assets/capstone-relational-mapping.html](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/openbeavs/assets/capstone-relational-mapping.html)

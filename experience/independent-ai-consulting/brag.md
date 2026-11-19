@@ -9,6 +9,11 @@ dates: 2026-05 → 2026-07
 
 # Independent AI Consulting — AI Quoting Agent
 
+<!-- hero -->
+![The production AI quoting agent: RFQ email in, ERP-priced quote out as an Outlook reply. About 10 hours a month saved per trader and $150K+ in revenue moved.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/independent-ai-consulting/assets/quoting-agent.png)
+*The production AI quoting agent: RFQ email in, ERP-priced quote out as an Outlook reply. About 10 hours a month saved per trader and $150K+ in revenue moved.*
+
+
 ## 1. Snapshot
 A freelance engagement between graduating and joining Magical. James designed, built, secured and deployed a **production AI quoting agent** for a lumber manufacturer's sales desk. It reads inbound request-for-quote emails, queries **live pricing and inventory from the client's ERP (SQL Server)**, and drafts **Outlook-ready quote replies** for the traders, with an operations dashboard on top. He owned all of it: architecture, prompts, SQL grounding, the security audit, tests and deployment.
 

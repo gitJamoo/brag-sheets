@@ -10,6 +10,11 @@ related: ../../project/coordinator/brag.md
 
 # BVR ST CO — Software Engineer
 
+<!-- hero -->
+![COORDINATOR pipeline: game film to play recognition to agent analysis, with LoRA fine-tuning on verified outcomes. James built these components.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/bvr-st-co/assets/coordinator-pipeline.png)
+*COORDINATOR pipeline: game film to play recognition to agent analysis, with LoRA fine-tuning on verified outcomes. James built these components.*
+
+
 ## 1. Snapshot
 James worked as a software engineer at BVR ST CO, a sports-AI startup, alongside his last year at Oregon State. He built core pieces of **COORDINATOR**, the company's agentic AI framework for **real-time football game analysis**:
 - **Local reasoning:** low-latency inference with **NVIDIA Nemotron** on local hardware, so coaching data stays in the building.
@@ -38,5 +43,5 @@ James worked as a software engineer at BVR ST CO, a sports-AI startup, alongside
 Agentic AI, NVIDIA Nemotron, AutoGen, LoRA, fine-tuning, reinforcement learning, local inference, DGX Spark, sports analytics, computer vision, player tracking, real-time systems.
 
 ## 6. Artifacts
-- Product: [COORDINATOR sheet](../../project/coordinator/brag.md) · getcoordinator.ai
+- Product: [COORDINATOR sheet](https://github.com/gitJamoo/brag-sheets/blob/main/project/coordinator/brag.md) · getcoordinator.ai
 - Logo: `assets/logo.jpg`

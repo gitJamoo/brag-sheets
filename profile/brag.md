@@ -8,6 +8,11 @@ email: real.jamesmsmith@gmail.com
 
 # James M. Smith
 
+<!-- hero -->
+![James M. Smith, AI/Product Engineer at Magical in San Francisco.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/profile/assets/smiling-headshot.jpg)
+*James M. Smith, AI/Product Engineer at Magical in San Francisco.*
+
+
 ## Bio
 James is an **AI/Product Engineer at Magical** in San Francisco, with about four years of experience building production AI systems, full-stack apps and automation pipelines. He has:
 - worked on an Estée Lauder recommendation chatbot projected at **$1.5M** in annual revenue;
@@ -35,13 +40,13 @@ He graduated from **Oregon State University** in June 2026 (B.S. Computer Scienc
 ## Fun facts
 - D1 cheerleader who based and stunted at Reser Stadium and March Madness.
 - Founded his high school's gaming club.
-- Makes short cinematic recap videos of chapters of his life (see [creative works](../project/creative-works/brag.md)).
+- Makes short cinematic recap videos of chapters of his life (see [creative works](https://github.com/gitJamoo/brag-sheets/blob/main/project/creative-works/brag.md)).
 - Won a school-wide pitch competition against non-CS students.
 
 ## Headshots & site media
 | | | |
 | --- | --- | --- |
-| ![Smiling headshot](assets/smiling-headshot.jpg) | ![Headshot](assets/headshot.jpg) | ![Headshot in Beaver gear](assets/beaver-headshot.jpg) |
+| ![Smiling headshot](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/profile/assets/smiling-headshot.jpg) | ![Headshot](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/profile/assets/headshot.jpg) | ![Headshot in Beaver gear](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/profile/assets/beaver-headshot.jpg) |
 
 - Link-preview image: `assets/og-image.png`
-- Link-preview video: [assets/og-video.mp4](assets/og-video.mp4)
+- Link-preview video: [assets/og-video.mp4](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/profile/assets/og-video.mp4)

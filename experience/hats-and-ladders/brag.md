@@ -9,6 +9,11 @@ dates: 2022-06 → 2022-08
 
 # Hats & Ladders — Software Engineering Intern
 
+<!-- hero -->
+![Hats & Ladders, where James built an admin panel serving 200,000+ users.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/experience/hats-and-ladders/assets/logo.jpg)
+*Hats & Ladders, where James built an admin panel serving 200,000+ users.*
+
+
 ## 1. Snapshot
 James's first engineering internship, the summer before college. He scoped, built and documented a company-wide **administration control panel** for a platform with **200,000+ unique users across 200+ organizations**. Its **permissions dashboard** let admins manage roles and settings themselves, cutting a recurring admin task from **about 2 hours to seconds**. He worked on a distributed, multi-timezone team with SCRUM and Jenkins CI/CD.
 

@@ -9,6 +9,11 @@ role: Founder & sole developer
 
 # EcoDues
 
+<!-- hero -->
+![EcoDues (ecodues.org): live, open-source SaaS James built solo in about 10 days.](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/ecodues-landing.png)
+*EcoDues (ecodues.org): live, open-source SaaS James built solo in about 10 days.*
+
+
 ## 1. Snapshot
 EcoDues connects to a user's AI providers (**OpenRouter, OpenAI, Anthropic** admin keys; subscription tiers like ChatGPT Plus / Claude Pro / Copilot / Cursor; manual entry), converts monthly usage → **kWh → kg CO₂e → USD "damage"** (social cost of carbon, **published, cited methodology** at `/methodology`), multiplies it by a user-chosen factor (default **2×**, 1–3×), and emails a **one-click donation link** to a vetted climate charity via **PayPal Giving Fund / Every.org**. **It never touches the user's money** (no PCI scope, no card holding). Fully open source (MIT); emissions engine is pure, tested TypeScript.
 
@@ -71,10 +76,10 @@ Next.js 16, React, TypeScript, Tailwind CSS v4, Supabase (Postgres, Auth, RLS-st
 
 | | |
 | --- | --- |
-| ![landing](assets/ecodues-landing.png) | ![methodology](assets/ecodues-methodology.png) |
-| ![impact](assets/ecodues-impact.png) | ![how donations work](assets/ecodues-how-donations-work.png) |
-| ![launch film poster](assets/launch-film-poster.jpg) | ![launch still](assets/launch-film-still-150.png) |
+| ![landing](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/ecodues-landing.png) | ![methodology](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/ecodues-methodology.png) |
+| ![impact](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/ecodues-impact.png) | ![how donations work](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/ecodues-how-donations-work.png) |
+| ![launch film poster](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/launch-film-poster.jpg) | ![launch still](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/launch-film-still-150.png) |
 
-**Launch film (video):** [assets/launch-film.mp4](assets/launch-film.mp4), about 31 s, made in Remotion. Also hosted at https://www.ecodues.org/launch-film.mp4
+**Launch film (video):** [assets/launch-film.mp4](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/launch-film.mp4), about 31 s, made in Remotion. Also hosted at https://www.ecodues.org/launch-film.mp4
 
-Portfolio card image: ![EcoDues card](assets/portfolio-thumbnail.png) · launch film frame: ![launch film scene 1](assets/launch-film-s1.png)
+Portfolio card image: ![EcoDues card](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/portfolio-thumbnail.png) · launch film frame: ![launch film scene 1](https://raw.githubusercontent.com/gitJamoo/brag-sheets/main/project/ecodues/assets/launch-film-s1.png)
